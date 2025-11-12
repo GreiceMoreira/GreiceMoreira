@@ -3,6 +3,8 @@
 I’m **Greice Moreira** — a **Software Development student at BYU–Idaho**.  
 I’m passionate about building digital experiences that blend clean, efficient code with thoughtful design.  
 
+- My portifolio : https://greicemoreira.github.io/greice-portfolio/
+
 - 🌱 Currently studying **Web Development, Databases, and Software Engineering principles**  
 - 💻 Building projects using **JavaScript, Node.js, Express, PostgreSQL,** and exploring **Java** for back-end development  
 - 🎨 Background in **UX/UI Design** from the *Full Stack Designer* program at EBAC  
